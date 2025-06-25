@@ -11,6 +11,3 @@
 	- [ ] Carriage
 	- [ ] Chopsticks
 - [ ] Design avionics 18 - 24
-
-- [ ] Keyboard? 25 - 31
-

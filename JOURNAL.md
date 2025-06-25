@@ -1,3 +1,10 @@
+---
+title: "Cat Tower"
+author: "Miguel"
+description: "A launchmount and catch tower for the Starkit electric model rocket"
+created_at: "2025-06-24"
+---
+
 ## June 24: Initial ideas and goal of the project
 
 I always like to begin engineering projects by setting a goal. For this project, my goal is the following:
@@ -31,13 +38,14 @@ These are not essential but they'd be cool to have:
 
 ## June 25: Research on landing methods
 
-I've decided to start by researching the feasibility of catching Starkit between the tower arms, which would require precise data about the relative position between the two. I've come to the conclusion that it is feasible and I've decided to use a camera on the rocket to track a beacon on the launchpad. This should give the rocket enough information to accurately approach the tower, and it should give the tower enough information to close its arms in the exact position the rocket is at. I will have to do more research to figure out all of the details, but now that I know that it is feasible I will start designing the launchpad.
+I've decided to start by researching the feasibility of catching Starkit between the tower arms, which would require precise data about the relative position between the two. I've come to the conclusion that it is feasible and I've decided to use a camera on the rocket to track a beacon on the launchpad. This should give the rocket enough information to accurately approach the tower, and it should give the tower enough information to close its arms in the exact position the rocket is at.
 
-I've decided to start by designing the 
+![](Images/Drone.jpg)
 
+*Many drones use beacons and computer vision for performing precision landings*
 
+I will have to do more research to figure out all of the details, but now that I know that it is feasible I will start designing the launchpad.
 
-15 30
-17 15
+I've decided to start by picking a material for the structure. I think plywood would be a good option, as it's cheap and strong. However, PETG is also strong and a spool is at a similar pricepoint. I will probably need to buy a spool of PETG filament for making the tower, and if I have enough material it wouldn't make sense to buy plywood if I can just make the launch mount from PETG as well. For now I will be designing for a PETG launch mount until I am more advanced into the design.
 
-23 45
+**Time spent: 2h 45min**
